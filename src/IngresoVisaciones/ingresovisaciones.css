@@ -1,0 +1,34 @@
+.grupoBotonesSupereriores{
+    padding-left: 33%;
+    padding-top: 3%;
+}
+
+.btnIngresoVisacion{
+    margin-right: 5px;
+}
+
+.btnVisacionSeguimiento{
+    margin-right: 5px;
+}
+
+.btnReportes{
+    margin-right: 5px;
+}
+
+.camposInput{
+    padding-left: 80px;
+    padding-bottom: 15px;
+}
+
+.btnGuardar{
+    margin-left: 5px;
+}
+
+.divBtnFinales{
+    text-align: center;
+}
+
+.tamanoBtn{
+    font-size: 10px;
+    height: 37px;
+}
